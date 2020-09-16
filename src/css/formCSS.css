@@ -1,0 +1,17 @@
+.container {
+    margin: auto;
+    padding-top: 200px;
+    width: 400px;
+    height: 800px;
+}
+
+.box {
+    border: 2px solid black;
+    padding: 30px;
+}
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
